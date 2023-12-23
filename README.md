@@ -1,6 +1,6 @@
 👋 Hi, I'm Joanna!
 
-💻 I am a Front End Developer at Helcim!
+💻 I am a Front-end focused Software Developer at Helcim!
 
 🌱 I graduated as a visual designer but fell in love with code ♥️
 
